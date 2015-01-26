@@ -1,0 +1,16 @@
+D:\Pisane\C#\GniazdaOkna\Serwer\bin\Debug\Serwer.exe.config
+D:\Pisane\C#\GniazdaOkna\Serwer\bin\Debug\Serwer.exe
+D:\Pisane\C#\GniazdaOkna\Serwer\bin\Debug\Serwer.pdb
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\App.g.cs
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\Serwer_MarkupCompile.cache
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\Serwer.g.resources
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\Serwer.Properties.Resources.resources
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\Serwer.csproj.GenerateResource.Cache
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\Serwer.exe
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\Serwer.pdb
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\Serwer.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\MainWindow.baml
+D:\Pisane\C#\GniazdaOkna\Serwer\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\GniazdaOkna\wiele klientów\Serwer\bin\Debug\Serwer.exe.config
+D:\Pisane\C#\GniazdaOkna\wiele klientów\Serwer\obj\Debug\Serwer.exe
+D:\Pisane\C#\GniazdaOkna\wiele klientów\Serwer\obj\Debug\Serwer.pdb

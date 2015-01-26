@@ -1,0 +1,16 @@
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\bin\Debug\GniazdaOkna.exe.config
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\bin\Debug\GniazdaOkna.exe
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\bin\Debug\GniazdaOkna.pdb
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\GniazdaOkna.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\MainWindow.baml
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\App.g.cs
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\GniazdaOkna_MarkupCompile.cache
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\GniazdaOkna.g.resources
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\GniazdaOkna.Properties.Resources.resources
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\GniazdaOkna.csproj.GenerateResource.Cache
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\GniazdaOkna.exe
+D:\Pisane\C#\GniazdaOkna\GniazdaOkna\obj\Debug\GniazdaOkna.pdb
+D:\Pisane\C#\GniazdaOkna\wiele klientów\GniazdaOkna\bin\Debug\GniazdaOkna.exe.config
+D:\Pisane\C#\GniazdaOkna\wiele klientów\GniazdaOkna\obj\Debug\GniazdaOkna.exe
+D:\Pisane\C#\GniazdaOkna\wiele klientów\GniazdaOkna\obj\Debug\GniazdaOkna.pdb

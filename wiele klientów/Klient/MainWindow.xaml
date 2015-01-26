@@ -1,0 +1,11 @@
+﻿<Window x:Class="Klient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Klient" Height="350" Width="525">
+    <Grid MouseLeftButtonDown="Grid_MouseLeftButtonDown_1">
+        <TextBox x:Name="textBox" Height="50" Width="400" Margin="57,258,60,11" KeyUp="textBox_KeyUp"></TextBox>
+        <Label x:Name="mainLabel" Height="300" Width="500">
+
+        </Label>
+    </Grid>
+</Window>

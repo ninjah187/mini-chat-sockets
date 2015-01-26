@@ -1,0 +1,13 @@
+D:\Pisane\C#\GniazdaOkna\Klient\bin\Debug\Klient.exe.config
+D:\Pisane\C#\GniazdaOkna\Klient\bin\Debug\Klient.exe
+D:\Pisane\C#\GniazdaOkna\Klient\bin\Debug\Klient.pdb
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\Klient.csprojResolveAssemblyReference.cache
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\MainWindow.baml
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\MainWindow.g.cs
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\App.g.cs
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\Klient_MarkupCompile.cache
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\Klient.g.resources
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\Klient.Properties.Resources.resources
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\Klient.csproj.GenerateResource.Cache
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\Klient.exe
+D:\Pisane\C#\GniazdaOkna\Klient\obj\Debug\Klient.pdb
